@@ -1,0 +1,33 @@
+.container{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+}
+.d-inline-block{
+    display: inline-block;
+}
+.d-block{
+    display: block;
+}
+.vertical-center{
+    vertical-align: middle;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear {
+    content: '';
+    clear: both;
+}
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-align-right{
+    text-align: right;
+}
