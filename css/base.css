@@ -1,33 +1,17 @@
 .container{
-    max-width: 1170px;
-    width: 100%;
+    max-width: 1323px;
     margin: 0 auto;
+    width: 100%;
 }
-.d-inline-block{
-    display: inline-block;
+.position-relative{
+    position: relative;
 }
 .d-block{
     display: block;
 }
-.vertical-center{
-    vertical-align: middle;
+.d-inline-block{
+    display: inline-block;
 }
-
-.float-left {
-    float: left;
-}
-
-.float-right {
-    float: right;
-}
-
-.clear {
-    content: '';
-    clear: both;
-}
-.text-uppercase{
-    text-transform: uppercase;
-}
-.text-align-right{
-    text-align: right;
+.width-100{
+    width: 100%;
 }
